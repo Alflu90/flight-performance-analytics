@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
+nycflights13
+streamlit
+# richiesto da nycflights13 (usa pkg_resources)
+setuptools<81

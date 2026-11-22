@@ -1,0 +1,10 @@
+.venv/
+.venv_rocm/
+__pycache__/
+.ipynb_checkpoints/
+data/*.db
+exports/
+.env.vscode/
+.agents/
+.env
+.vscode/
